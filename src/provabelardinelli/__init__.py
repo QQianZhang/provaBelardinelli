@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Ciao, sono Dafne")
+    print("Ciao, sono Dafne e Edoardo")
